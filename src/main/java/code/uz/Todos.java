@@ -1,6 +1,6 @@
-package code.uz.model;
+package code.uz;
 
-import code.uz.model.Status;
+import code.uz.Status;
 
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
